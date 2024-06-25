@@ -19,7 +19,7 @@ PS에 흥미를 가지고 있으며, 코딩하는 시간을 즐거워합니다.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 
 </div>
 #### I've used it before.
