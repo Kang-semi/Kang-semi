@@ -16,14 +16,18 @@ PS에 흥미를 가지고 있으며, 코딩하는 시간을 즐거워합니다.
 <br />
 ## Skills
 #### I use it often.
+#### 이 기술 역량이 있습니다
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 
 </div>
-#### I've used it before.
+#### 이 기술을 배우고 있습니다
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
+<img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 </div>
 <br />
 <br />
